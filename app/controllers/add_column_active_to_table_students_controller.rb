@@ -1,0 +1,2 @@
+class AddColumnActiveToTableStudentsController < ApplicationController
+end
